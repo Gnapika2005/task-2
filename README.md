@@ -13,7 +13,7 @@ This task demonstrates basic Git and GitHub workflows, including:
 ---
 
 ## GitHub Repository
-**Repo Link:** [https://github.com/polankisravya/task_2](https://github.com/polankisravya/task_2)
+**Repo Link:**[https://github.com/Gnapika2005/task-2](https://github.com/Gnapika2005/task-2)
 
 ---
 
